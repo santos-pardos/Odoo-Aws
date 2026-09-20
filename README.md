@@ -55,7 +55,7 @@ docker buildx version
 ```
 ## 2. Git Repository
 ```
-git clone https://github.com/santos-pardos/Odoo-DockerCompose.git
+git clone https://github.com/santos-pardos/Odoo-Aws.git
 ```
 
 ## 3. EC2 EIP
@@ -101,7 +101,7 @@ sudo systemctl restart nginx
 ```
 ## 5. Launch
 ```
-cd Odoo-DockerCompose
+cd Odoo-Aws
 sudo chown -R $USER:$USER addons config sessions
 docker-compose up -d
 ```
