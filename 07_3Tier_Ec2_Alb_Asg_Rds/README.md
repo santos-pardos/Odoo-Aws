@@ -1,7 +1,7 @@
 ## 2 Tier Architecture
 ![alt text](Architecture2.png)
 ## 3 Tier Architecture
-![alt text](Architecture.png)
+![alt text](Architecture3.png)
 
 ## Create VPC Odoo
 ```
