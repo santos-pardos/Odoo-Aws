@@ -1,7 +1,12 @@
-## Monolito
+# Odoo - Monolito
+
+## odoo_ec2_00_Monolito.sh
+
 ![alt text](Monolito.png)
-## 2 Tier Architecture
+# 2 Tier Architecture
 ![alt text](Architecture2.png)
+## odoo_ec2_01_inicializar.sh y odoo_ec2_02_y_siguientes.sh
+
 ## 3 Tier Architecture
 ![alt text](Architecture3.png)
 
