@@ -30,8 +30,8 @@ User: odoo
 Password A123456b
 BBDD: odoo
 ```
-## Instalar odoo_ec2_01_inicializar.sh  
-## Instalar odoo_ec2_02_y_siguientes.sh
+## Install odoo_ec2_01_inicializar.sh  
+## Install odoo_ec2_02_y_siguientes.sh
 
 ## Login
 ```
