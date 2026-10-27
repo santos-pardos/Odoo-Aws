@@ -1,9 +1,9 @@
 # Odoo - Monolito
 ## Fedora User-data: odoo_ec2_00_Monolito.sh
 ![alt text](img/Monolito.png)
-![alt text](img/odoo_aws_01_ec2_odoo_postgresql_ec2_publicas.png)
-![alt text](img/odoo_aws_02_odoo_publica_postgresql_ec2_privada.png)
-![alt text](img/odoo_aws_03_odoo_ec2_rds_single_az.png)
+![alt text](img/odoo_aws_01_ec2_odoo_postgresql_ec2_publicas.jgp)
+![alt text](img/odoo_aws_02_odoo_publica_postgresql_ec2_privada.jpg)
+![alt text](img/odoo_aws_03_odoo_ec2_rds_single_az.jpg)
 
 # 2 Tier Architecture
 ## Ubuntu User-data: odoo_ec2_01_inicializar.sh y odoo_ec2_02_y_siguientes.sh
@@ -12,6 +12,7 @@
 
 # 3 Tier Architecture
 ## Ubuntu User-data: odoo_ec2_01_inicializar.sh y odoo_ec2_02_y_siguientes.sh
+![alt text](img/odoo_aws_04_alb_odoo_privado_rds.jpg)
 ![alt text](img/Architecture3.png)
 
 ## Create VPC Odoo
