@@ -1,7 +1,7 @@
 # Odoo - Monolito
 ## Fedora User-data: odoo_ec2_00_Monolito.sh
 ![alt text](img/Monolito.png)
-![alt text](img/odoo_aws_01_ec2_odoo_postgresql_ec2_publicas.jpp)
+![alt text](img/odoo_aws_01_ec2_odoo_postgresql_ec2_publicas.jpg)
 ![alt text](img/odoo_aws_02_odoo_publica_postgresql_ec2_privada.jpg)
 ![alt text](img/odoo_aws_03_odoo_ec2_rds_single_az.jpg)
 
